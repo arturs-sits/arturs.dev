@@ -1,10 +1,10 @@
 Privacy Policy for LaunchOnFly ("Software") available at https://arturs.dev/ ("Website"), developed by Arturs Sits ("Developer").
 
-Last update: January 04, 2023.
+Last update: July 02, 2024.
 
 The only collected personal information is the one, that user has provided during direct contact with the Developer, or during purchase of any version of the Software.
 
-The Software does not collect, or send any information whatsoever - it only periodically downloads a file containing number of the latest version of the Software, if "Check daily for automatic updates" feature is enabled, and notifies user, if there's an update available.
+The Software does not collect, or send any information whatsoever.
 
 The Software accesses storage on the user's device to provide user with the main functionality of the Software - it does not collect, or send any information from the user's device.
 
