@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.47 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<PublisherID>pid-c0002c91c0e1</PublisherID>
+		<BrandID>bid-e0000e8fe0e1</BrandID>
+		<Company_Name>Arturs Sits</Company_Name>
+		<Country>Latvia</Country>
+		<State_Province>Adazi</State_Province>
+		<City_Town>Adazi</City_Town>
+		<Zip_Postal_Code>LV-2164</Zip_Postal_Code>
+		<Address_1>Veja iela</Address_1>
+		<Address_2></Address_2>
+		<Company_WebSite_URL>https://arturs.dev/</Company_WebSite_URL>
+		<Contact_Info>
+			<Contact_First_Name>Arturs</Contact_First_Name>
+			<Contact_Last_Name>Sits</Contact_Last_Name>
+			<Contact_Email>info@arturs.dev</Contact_Email>
+			<Author_First_Name>Arturs</Author_First_Name>
+			<Author_Last_Name>Sits</Author_Last_Name>
+			<Author_Email>info@arturs.dev</Author_Email>
+			<Contact_Phone></Contact_Phone>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>info@arturs.dev</Sales_Email>
+			<Support_Email>info@arturs.dev</Support_Email>
+			<General_Email>info@arturs.dev</General_Email>
+			<Sales_Phone></Sales_Phone>
+			<Support_Phone></Support_Phone>
+			<General_Phone></General_Phone>
+			<Fax_Phone></Fax_Phone>
+		</Support_Info>
+		<LinkedinPage></LinkedinPage>
+		<TwitterCompanyPage></TwitterCompanyPage>
+		<FacebookCompanyPage></FacebookCompanyPage>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>InstantLogonChanger (64-bit)</Program_Name>
+		<Program_Version>1.0.1.0</Program_Version>
+		<Program_Release_Month>07</Program_Release_Month>
+		<Program_Release_Day>25</Program_Release_Day>
+		<Program_Release_Year>2011</Program_Release_Year>
+		<Program_Cost_Dollars/>
+		<Program_Cost_Other_Code/>
+		<Program_Cost_Other/>
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x64,WinServer</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Version 1.0.1.0 is a first public release.</Program_Change_Info>
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>Desktop::Themes &amp; Wallpaper</Program_Category_Class>
+		<Program_System_Requirements/>
+		<File_Info>
+			<File_Size_Bytes>628736</File_Size_Bytes>
+			<File_Size_K>614</File_Size_K>
+			<File_Size_MB>0.60</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count/>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info/>
+			<Expire_Month/>
+			<Expire_Day/>
+			<Expire_Year/>
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>logon background, change logon, logon background changer, change Windows 7 logon, background</Keywords>
+			<Char_Desc_45>Windows 7 logon background changer.</Char_Desc_45>
+			<Char_Desc_80>Always have your Windows 7 logon background the same as your Desktop wallpaper.</Char_Desc_80>
+			<Char_Desc_250>With InstantLogonChanger always have your Windows 7 logon background the same as your Desktop wallpaper or set it to any other image or color without any security prompts or changing system files.</Char_Desc_250>
+			<Char_Desc_450>With InstantLogonChanger always have your Windows 7 logon background the same as your Desktop wallpaper or set it to any other image or color without any security prompts or changing system files.</Char_Desc_450>
+			<Char_Desc_2000>With InstantLogonChanger always have your Windows 7 logon background the same as your Desktop wallpaper or set it to any other image or color without any security prompts or changing system files.
+
+JPEG, PNG, BMP, GIF, or TIFF image formats are supported. You can fill, fit, stretch, tile, or center your image and change background color for images that are too small to fit the screen.
+
+Made with a business user in mind, InstantLogonChanger allows you to disable all of it's notifications, such as update alerts, by enabling Hide InstantLogonChanger tray icon setting.
+
+InstantLogonChanger also automatically adjusts logon screen text and button color so they're better visible no matter what image is used as a logon background.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>https://arturs.dev/</Application_Info_URL>
+			<Application_Order_URL/>
+			<Application_Screenshot_URL>https://raw.githubusercontent.com/arturs-sits/arturs.dev/main/InstantLogonChanger/ilc_1.0_main_350.jpg</Application_Screenshot_URL>
+			<Application_Icon_URL>https://raw.githubusercontent.com/arturs-sits/arturs.dev/main/InstantLogonChanger/ilc_icon_32.png</Application_Icon_URL>
+			<Application_XML_File_URL>https://raw.githubusercontent.com/arturs-sits/arturs.dev/main/InstantLogonChanger/instantlogonchanger64bit.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>https://raw.githubusercontent.com/arturs-sits/arturs.dev/refs/heads/main/InstantLogonChanger/InstantLogonChangerSetup_1.0.1.0_x64.msi</Primary_Download_URL>
+			<Secondary_Download_URL/>
+			<Additional_Download_URL_1/>
+			<Additional_Download_URL_2/>
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions/>
+		<EULA>InstantLogonChanger End-User License Agreement
+
+You must accept this agreement in order to install or use this software.
+
+This software is Freeware and may be distributed over the Internet or through other media freely as long as its original distribution remains unchanged and no fee is charged for such distribution with the exception of reasonable shipping and media charged. You may not rent or lease this software. Notification of distribution is greatly appreciated but not required.
+
+You may not reverse engineer, decompile, disassemble or otherwise change the contents of the program files or included documentation.
+
+This software is provided 'as-is', without any express or implied warranty. The author cannot be held liable for any damages as a result of the use or misuse of this software.
+
+InstantLogonChanger and all included documentation are all Copyright © 2011 Arturs Sits.</EULA>
+	</Permissions>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>UFQy3vHfE7S70FoWHND5JfbtHbU=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>g+aO8BE5Ji4IQgxoLTxtHxq4vdOi8A8R1p1hrbCl5NG9oAh2iOxXUatFxcTq3dPE
+OpzitwFUAYlq9gBDMCnrnh/BXG0no9nZ78JG0MS2FZPbT+yeHVjCpJ4k9nzLUCIl
+JIaxejyp7loPqIMj9MS8gkJEQy2GzZQsJt2z5MFZfPa2TrrplK/+rtU4BUf6fqo8
+crWPXuZDhVHyrakSY3oxgWVrbt7yfhET/4oT45s8QSc1ZL8EtT6sekEIwgx3QK4B
+95wW/seGmtxJsVsvwGBalFVIEmY3m+udk8uFPTlgpGezDVQAid8ppPSpzISAGXpW
+u5cjSu65ufgPybYH84burw==</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>MIIEZjCCA06gAwIBAgIQRL4Mi1AAJLQR0zYt4LNfGzANBgkqhkiG9w0BAQUFADCB
+lTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlVUMRcwFQYDVQQHEw5TYWx0IExha2Ug
+Q2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMSEwHwYDVQQLExho
+dHRwOi8vd3d3LnVzZXJ0cnVzdC5jb20xHTAbBgNVBAMTFFVUTi1VU0VSRmlyc3Qt
+T2JqZWN0MB4XDTk5MDcwOTE4MzEyMFoXDTE5MDcwOTE4NDAzNlowgZUxCzAJBgNV
+BAYTAlVTMQswCQYDVQQIEwJVVDEXMBUGA1UEBxMOU2FsdCBMYWtlIENpdHkxHjAc
+BgNVBAoTFVRoZSBVU0VSVFJVU1QgTmV0d29yazEhMB8GA1UECxMYaHR0cDovL3d3
+dy51c2VydHJ1c3QuY29tMR0wGwYDVQQDExRVVE4tVVNFUkZpcnN0LU9iamVjdDCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAM6qgT+jo2F4qjEAVZURnicP
+HxzfOpuCaDDASmEd8S8O+r5596Uj71VRloTN2+O5bj4x2AogZ8f02b+U60cEPgLO
+KqJdhwQJ9jCdGIqXsqoc/EHSoTbL+z2RuufZcDX65OeQw5ujm9M89RKZd7G3CeBo
+5hy485RjiGpq/gt2yb70IuRnuasaXnfBhQfdDWy/7gbHd2pBnqcP1/vulBe3/IW+
+pKvEHDHd17bR5PDv3xaPslKT16HUiaEHLr/hARJCHhrh2JU022R5KP+6LhHC5ehb
+kkj7RwvCbNqtMoNB86XlQXD9ZZBt+vpRxPm9lisZBCzTbafc8H9vg2XiaquHhnUC
+AwEAAaOBrzCBrDALBgNVHQ8EBAMCAcYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4E
+FgQU2u1kdBScFDyr3ZmpvVsoTYs8ydgwQgYDVR0fBDswOTA3oDWgM4YxaHR0cDov
+L2NybC51c2VydHJ1c3QuY29tL1VUTi1VU0VSRmlyc3QtT2JqZWN0LmNybDApBgNV
+HSUEIjAgBggrBgEFBQcDAwYIKwYBBQUHAwgGCisGAQQBgjcKAwQwDQYJKoZIhvcN
+AQEFBQADggEBAAgfUrE3RHjb/c652pWWmKpVZIC1WkDdIaXFwfNfLEzIR1pp6ujw
+NTX00CXzyKakh0q9G7FzCL3Uw8q2NbtZhncxzaeAFK4T7/yxSPlrJSUtUbYsbUXB
+mMiKVl0+7kNOPmsnjtA6S4ULX9Ptaqd1y9Fahy85dRNacrACgZ++8A+EVCBibGnU
+4U3GDZlDAQ0Slox4nb9QorFEqmrPF3rPbw/U+CRVX/A0FklmPlBGyWNxODFiuGK5
+81OtbLUrohKqGU8J2l7nk8aOFAj+8DCAGKCGhU3IfdeLA/5u1fedFqySLKAj5ZyR
+Uh+U3xeUc8OzwcFxBSAAeL0TUh2oPs0AH8g=</X509Certificate>
+<X509Certificate>MIIFDjCCA/agAwIBAgIQc2OvkUoJihgmwECQD/dKrDANBgkqhkiG9w0BAQUFADCB
+lTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlVUMRcwFQYDVQQHEw5TYWx0IExha2Ug
+Q2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMSEwHwYDVQQLExho
+dHRwOi8vd3d3LnVzZXJ0cnVzdC5jb20xHTAbBgNVBAMTFFVUTi1VU0VSRmlyc3Qt
+T2JqZWN0MB4XDTExMDEwNzAwMDAwMFoXDTEyMDEwNzIzNTk1OVowgYExCzAJBgNV
+BAYTAkxWMQ0wCwYDVQQRDAQxMDExMQ4wDAYDVQQIDAVSaWdhczENMAsGA1UEBwwE
+UmlnYTEYMBYGA1UECQwPR2VydHJ1ZGVzIDQ2LTdhMRQwEgYDVQQKDAtBcnR1cnMg
+U2l0czEUMBIGA1UEAwwLQXJ0dXJzIFNpdHMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC3Hx06zQebleFKTNA+5UIDWZhoX6nxH8tpl2uf9fV5LwDtxJdc
+5vsLD2PlxhkYxz00iOWlSxFCV5zunIzunPTMTBxtPk7YB2xTG2mADEZSZEeI8BlL
+yTijAsQ04P2Kdj/sg+bWoTM2Mx4r3e2O4VM+dt/lSxrZ+GWRGF8JqHxKuFIAKLxk
+gbdWcmC3CpUPSV6APKo5wQNPy0fyNXy/1qlNyRDYZVltPn3zt1SV7iSbbVbOR4xL
+9gGJh0CtIVvsprhldP6pB2CCkaDFt+XNabI9kizqpIfuNX/atPlwGpibCa7lwQlo
+Ar3uNZop/hZ+wfJErYbCjSAfj2gXhgz+xe9zAgMBAAGjggFqMIIBZjAfBgNVHSME
+GDAWgBTa7WR0FJwUPKvdmam9WyhNizzJ2DAdBgNVHQ4EFgQUxAKrZhb9bNEPcqGn
+VspdDq/JgSwwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAww
+CgYIKwYBBQUHAwMwEQYJYIZIAYb4QgEBBAQDAgQQMEYGA1UdIAQ/MD0wOwYMKwYB
+BAGyMQECAQMCMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5u
+ZXQvQ1BTMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6Ly9jcmwudXNlcnRydXN0LmNv
+bS9VVE4tVVNFUkZpcnN0LU9iamVjdC5jcmwwNAYIKwYBBQUHAQEEKDAmMCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wHAYDVR0RBBUwE4ERaW5m
+b0BhcnR1cmRldi5jb20wDQYJKoZIhvcNAQEFBQADggEBAHTiTdW3K/TYwuS2zpgu
+zAsqUtS2TUOk9M3oUM95PhcTcU2A6uJl3fk5tSgbRxbFr86qj1C3bymfh7kE08PC
+kKfjgB74r35zK+5G2y6o250T4yF84lyJ1yO9IHlzXwOvPyE/Wfl/mkIz6G/FKIvI
+2h/5T3SP8A0KCAnPBonbRGfY+M5m4mQINpBmXlwMl+IR7y/p5r97q3DWd7X6gQM5
+DNWlzAnzwP+C/4TvrflUlh+K6++NKssbS0oKbr2CmmxO4ueRxjfxn+Aa+4Jo9TYc
+MZWpPoNh69feTGB9q51uniLKabKhTTNgZjXhIKG9JEoLAHKXO4WcxfNnhpzlcSao
+wd0=</X509Certificate>
+<X509Certificate>MIIFDjCCA/agAwIBAgIQc2OvkUoJihgmwECQD/dKrDANBgkqhkiG9w0BAQUFADCB
+lTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAlVUMRcwFQYDVQQHEw5TYWx0IExha2Ug
+Q2l0eTEeMBwGA1UEChMVVGhlIFVTRVJUUlVTVCBOZXR3b3JrMSEwHwYDVQQLExho
+dHRwOi8vd3d3LnVzZXJ0cnVzdC5jb20xHTAbBgNVBAMTFFVUTi1VU0VSRmlyc3Qt
+T2JqZWN0MB4XDTExMDEwNzAwMDAwMFoXDTEyMDEwNzIzNTk1OVowgYExCzAJBgNV
+BAYTAkxWMQ0wCwYDVQQRDAQxMDExMQ4wDAYDVQQIDAVSaWdhczENMAsGA1UEBwwE
+UmlnYTEYMBYGA1UECQwPR2VydHJ1ZGVzIDQ2LTdhMRQwEgYDVQQKDAtBcnR1cnMg
+U2l0czEUMBIGA1UEAwwLQXJ0dXJzIFNpdHMwggEiMA0GCSqGSIb3DQEBAQUAA4IB
+DwAwggEKAoIBAQC3Hx06zQebleFKTNA+5UIDWZhoX6nxH8tpl2uf9fV5LwDtxJdc
+5vsLD2PlxhkYxz00iOWlSxFCV5zunIzunPTMTBxtPk7YB2xTG2mADEZSZEeI8BlL
+yTijAsQ04P2Kdj/sg+bWoTM2Mx4r3e2O4VM+dt/lSxrZ+GWRGF8JqHxKuFIAKLxk
+gbdWcmC3CpUPSV6APKo5wQNPy0fyNXy/1qlNyRDYZVltPn3zt1SV7iSbbVbOR4xL
+9gGJh0CtIVvsprhldP6pB2CCkaDFt+XNabI9kizqpIfuNX/atPlwGpibCa7lwQlo
+Ar3uNZop/hZ+wfJErYbCjSAfj2gXhgz+xe9zAgMBAAGjggFqMIIBZjAfBgNVHSME
+GDAWgBTa7WR0FJwUPKvdmam9WyhNizzJ2DAdBgNVHQ4EFgQUxAKrZhb9bNEPcqGn
+VspdDq/JgSwwDgYDVR0PAQH/BAQDAgeAMAwGA1UdEwEB/wQCMAAwEwYDVR0lBAww
+CgYIKwYBBQUHAwMwEQYJYIZIAYb4QgEBBAQDAgQQMEYGA1UdIAQ/MD0wOwYMKwYB
+BAGyMQECAQMCMCswKQYIKwYBBQUHAgEWHWh0dHBzOi8vc2VjdXJlLmNvbW9kby5u
+ZXQvQ1BTMEIGA1UdHwQ7MDkwN6A1oDOGMWh0dHA6Ly9jcmwudXNlcnRydXN0LmNv
+bS9VVE4tVVNFUkZpcnN0LU9iamVjdC5jcmwwNAYIKwYBBQUHAQEEKDAmMCQGCCsG
+AQUFBzABhhhodHRwOi8vb2NzcC5jb21vZG9jYS5jb20wHAYDVR0RBBUwE4ERaW5m
+b0BhcnR1cmRldi5jb20wDQYJKoZIhvcNAQEFBQADggEBAHTiTdW3K/TYwuS2zpgu
+zAsqUtS2TUOk9M3oUM95PhcTcU2A6uJl3fk5tSgbRxbFr86qj1C3bymfh7kE08PC
+kKfjgB74r35zK+5G2y6o250T4yF84lyJ1yO9IHlzXwOvPyE/Wfl/mkIz6G/FKIvI
+2h/5T3SP8A0KCAnPBonbRGfY+M5m4mQINpBmXlwMl+IR7y/p5r97q3DWd7X6gQM5
+DNWlzAnzwP+C/4TvrflUlh+K6++NKssbS0oKbr2CmmxO4ueRxjfxn+Aa+4Jo9TYc
+MZWpPoNh69feTGB9q51uniLKabKhTTNgZjXhIKG9JEoLAHKXO4WcxfNnhpzlcSao
+wd0=</X509Certificate>
+</X509Data>
+</KeyInfo>
+</Signature></XML_DIZ_INFO>
